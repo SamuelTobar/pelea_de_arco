@@ -1,2 +1,3 @@
-# pelea_de_arco
-samuel_tobar
+# Plantilla C28
+
+Plantilla C28
